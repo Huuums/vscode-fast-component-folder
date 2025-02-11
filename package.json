@@ -348,7 +348,7 @@
     "all-contributors-cli": "^6.26.1",
     "chai": "4",
     "chai-fs": "^2.0.0",
-    "esbuild": "^0.20.1",
+    "esbuild": "^0.25.0",
     "eslint": "^8.43.0",
     "glob": "^10.3.10",
     "mocha": "^10.3.0",
